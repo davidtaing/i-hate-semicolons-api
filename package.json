@@ -1,0 +1,15 @@
+{
+  "name": "i-hate-semicolons-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.4.8",
+    "@vercel/node": "^2.15.8",
+    "typescript": "^5.1.6"
+  }
+}
